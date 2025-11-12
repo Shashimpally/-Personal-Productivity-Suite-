@@ -102,5 +102,5 @@ Master basics before specialization (e.g., ML, web dev, automation)
 🧑‍💻 Author
 Shashi Kumar
 📧 Email: mshashikumar0210@gmail.com
-🌐 LinkedIn: linkedin.com/in/your-profile
+🌐 LinkedIn: https://www.linkedin.com/in/mulakalapally-shashi-kumar-911529366/
 
