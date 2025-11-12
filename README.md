@@ -4,6 +4,9 @@ A complete **Personal Productivity Suite** built with **Python and FastAPI**, de
 This project combines multiple essential tools — **Calculator**, **Notes App**, **Timer**, and **File Organizer** — into a single unified interface.
 
 ---
+## 🖼️ Screenshots
+In backend/screenshots/
+In frontend/screenshots/
 
 ## 🚀 Features
 
